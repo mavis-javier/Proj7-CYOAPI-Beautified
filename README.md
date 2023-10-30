@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: **Mavis Javier**
 
-Time spent: **8** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**Coffee API in RecyclerView** is an android app that **This app that displays a scrollable list of coffee images with its name and description from the Coffee API")**
+**CoffeeAPI Beautified** is an android app that **This app is a more beautiful version of MyCoffee API and RecyclerView**
 
-If I had to describe this project in three (3) emojis, they would be: **😤😓🤑**
+If I had to describe this project in three (3) emojis, they would be: **^v^ -_- :))**
 
 ## Application Features
 
@@ -18,15 +18,16 @@ If I had to describe this project in three (3) emojis, they would be: **😤😓
 
 The following REQUIRED features are completed:
 
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
@@ -35,9 +36,9 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-- <a href='https://i.imgur.com/8F5jz1G.gifv'>link</a> if gif preview not working.
 
-<img src='[Imgur](https://i.imgur.com/8F5jz1G.gifv)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/zbabX3s' title='Video Demo' width='' alt='Video Demo' />
+<a href='https://imgur.com/a/zbabX3s'>Image Link</a>
 
 GIF created with **ScreenToGif**
 
